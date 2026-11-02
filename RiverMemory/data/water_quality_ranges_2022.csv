@@ -1,0 +1,25 @@
+record_id,year,river,station_code,station,parameter,min_value,max_value,unit,unit_original,value_type,source_status
+WQ-001,2022,Ganga,1046,"River Ganga at Prayagraj (Rasoolabad), Uttar Pradesh",temperature_c,18.9,31.6,°C,°C,min_max_range,Unverified
+WQ-002,2022,Ganga,1046,"River Ganga at Prayagraj (Rasoolabad), Uttar Pradesh",do_mg_l,6.1,10.5,mg/L,mg/L,min_max_range,Unverified
+WQ-003,2022,Ganga,1046,"River Ganga at Prayagraj (Rasoolabad), Uttar Pradesh",ph,7.39,8.35,pH units,pH units,min_max_range,Unverified
+WQ-004,2022,Ganga,1046,"River Ganga at Prayagraj (Rasoolabad), Uttar Pradesh",conductivity_us_cm,218.0,264.0,µS/cm,µmhos/cm,min_max_range,Unverified
+WQ-005,2022,Ganga,1046,"River Ganga at Prayagraj (Rasoolabad), Uttar Pradesh",bod_mg_l,2.6,2.9,mg/L,mg/L,min_max_range,Unverified
+WQ-006,2022,Ganga,1046,"River Ganga at Prayagraj (Rasoolabad), Uttar Pradesh",nitrate_mg_l,0.56,0.67,mg/L,mg/L,min_max_range,Unverified
+WQ-007,2022,Ganga,1046,"River Ganga at Prayagraj (Rasoolabad), Uttar Pradesh",fecal_coliform_mpn,560.0,930.0,MPN/100 mL,MPN/100 mL,min_max_range,Unverified
+WQ-008,2022,Ganga,1046,"River Ganga at Prayagraj (Rasoolabad), Uttar Pradesh",total_coliform_mpn,1500.0,2400.0,MPN/100 mL,MPN/100 mL,min_max_range,Unverified
+WQ-009,2022,Ganga,1049,"River Ganga at Prayagraj D/S (Sangam), Uttar Pradesh",temperature_c,18.9,31.8,°C,°C,min_max_range,Unverified
+WQ-010,2022,Ganga,1049,"River Ganga at Prayagraj D/S (Sangam), Uttar Pradesh",do_mg_l,6.0,9.2,mg/L,mg/L,min_max_range,Unverified
+WQ-011,2022,Ganga,1049,"River Ganga at Prayagraj D/S (Sangam), Uttar Pradesh",ph,7.43,8.39,pH units,pH units,min_max_range,Unverified
+WQ-012,2022,Ganga,1049,"River Ganga at Prayagraj D/S (Sangam), Uttar Pradesh",conductivity_us_cm,237.0,279.0,µS/cm,µmhos/cm,min_max_range,Unverified
+WQ-013,2022,Ganga,1049,"River Ganga at Prayagraj D/S (Sangam), Uttar Pradesh",bod_mg_l,2.6,3.0,mg/L,mg/L,min_max_range,Unverified
+WQ-014,2022,Ganga,1049,"River Ganga at Prayagraj D/S (Sangam), Uttar Pradesh",nitrate_mg_l,0.6,0.67,mg/L,mg/L,min_max_range,Unverified
+WQ-015,2022,Ganga,1049,"River Ganga at Prayagraj D/S (Sangam), Uttar Pradesh",fecal_coliform_mpn,610.0,930.0,MPN/100 mL,MPN/100 mL,min_max_range,Unverified
+WQ-016,2022,Ganga,1049,"River Ganga at Prayagraj D/S (Sangam), Uttar Pradesh",total_coliform_mpn,2400.0,2700.0,MPN/100 mL,MPN/100 mL,min_max_range,Unverified
+WQ-017,2022,Yamuna,1069,"River Yamuna at Prayagraj D/S (Balua Ghat), Uttar Pradesh",temperature_c,19.0,32.0,°C,°C,min_max_range,Unverified
+WQ-018,2022,Yamuna,1069,"River Yamuna at Prayagraj D/S (Balua Ghat), Uttar Pradesh",do_mg_l,6.5,8.8,mg/L,mg/L,min_max_range,Unverified
+WQ-019,2022,Yamuna,1069,"River Yamuna at Prayagraj D/S (Balua Ghat), Uttar Pradesh",ph,7.5,8.3,pH units,pH units,min_max_range,Unverified
+WQ-020,2022,Yamuna,1069,"River Yamuna at Prayagraj D/S (Balua Ghat), Uttar Pradesh",conductivity_us_cm,365.0,456.0,µS/cm,µmhos/cm,min_max_range,Unverified
+WQ-021,2022,Yamuna,1069,"River Yamuna at Prayagraj D/S (Balua Ghat), Uttar Pradesh",bod_mg_l,2.5,2.8,mg/L,mg/L,min_max_range,Unverified
+WQ-022,2022,Yamuna,1069,"River Yamuna at Prayagraj D/S (Balua Ghat), Uttar Pradesh",nitrate_mg_l,0.52,0.59,mg/L,mg/L,min_max_range,Unverified
+WQ-023,2022,Yamuna,1069,"River Yamuna at Prayagraj D/S (Balua Ghat), Uttar Pradesh",fecal_coliform_mpn,400.0,680.0,MPN/100 mL,MPN/100 mL,min_max_range,Unverified
+WQ-024,2022,Yamuna,1069,"River Yamuna at Prayagraj D/S (Balua Ghat), Uttar Pradesh",total_coliform_mpn,1200.0,1700.0,MPN/100 mL,MPN/100 mL,min_max_range,Unverified
